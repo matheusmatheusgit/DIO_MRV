@@ -1,0 +1,36 @@
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.navbar {
+    background-color: rgb(178, 161, 238);
+}
+
+.margin {
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+.Quem-somos {
+    background-color: blue;
+    color: aliceblue;
+}
+
+.Parceiros {
+    background-color: rgb(3, 3, 185);
+    color: aliceblue;
+}
+
+.Serviços {
+    background-color: rgb(15, 15, 99);
+    color: aliceblue;
+}
+
+.bg-footer {
+    background-color: black;
+    color: aliceblue;
+}
+
+
+
